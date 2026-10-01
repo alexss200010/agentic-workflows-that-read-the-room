@@ -11,7 +11,7 @@ permissions:
   issues: read
   pull-requests: read
   discussions: read
-engine: copilot
+engine: claude
 tools:
   github:
     mode: gh-proxy
